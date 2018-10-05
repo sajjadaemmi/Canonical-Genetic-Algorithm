@@ -21,4 +21,4 @@ FM = Mean Fitness
 
 # Example of output
 
-![Screenshot](screenshot.png)
+![Screenshot](output.png)
